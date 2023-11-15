@@ -19,3 +19,4 @@ Run "ollama serve"
 Run "streamlit run app.py"
 
 ![Screenshot from 2023-11-14 21-43-58](https://github.com/StuckNSpace/ollama_PDF_CHAT/assets/34696551/fb2b16ca-c738-4e71-bc24-2d3c1f3cbb4f)
+![Screenshot from 2023-11-14 22-01-28](https://github.com/StuckNSpace/ollama_PDF_CHAT/assets/34696551/c0912f34-aab0-4f99-9df0-9ecf41f6e920)
